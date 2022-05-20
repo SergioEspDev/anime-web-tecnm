@@ -22,9 +22,9 @@ export const AnimeCard = (anime) => {
                 ></div>
                 <div className="title">{anime.title}</div>
                 <div className="text-card">
-                    Inicio: { anime.start_date }
+                    Start date: { anime.start_date }
                     <br/>
-                    Final: { anime.end_date ? anime.end_date : `Unknown date` }
+                    End date: { anime.end_date ? anime.end_date : `Unknown date` }
                 </div>
                 <div className="score">{anime.score}
                     <FontAwesomeIcon style={{marginLeft:"6px"}} icon={faStar}/>

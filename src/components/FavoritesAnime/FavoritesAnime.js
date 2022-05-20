@@ -1,7 +1,6 @@
 import { useDetailAnime } from "../../hooks/useDetailAnime";
 import { NotFoundScreen } from "../NotFound404/NotFoundScreen";
 import { FavoriteCard } from "./FavoriteCard";
-// import { Link } from 'react-router-dom';
 
 export const FavoritesAnime = () => {
 

@@ -59,7 +59,7 @@ export const DrawerScreen = () => {
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to='/login' className="nav-links-mobile" onClick={closeMobileMenu}>
+                        <Link to='/' className="nav-links-mobile" onClick={closeMobileMenu}>
                             <FontAwesomeIcon style={{marginRight:"10px"}}  icon={faUser} />
                             Sign Up
                         </Link>

@@ -82,7 +82,7 @@
 .text_title2 h2{
     font-size: 32px;
     letter-spacing: 1px;
-    color: $primaryColor;
+    color: white;
     font-weight: 500;
     text-align:flex-start;
 }
@@ -133,7 +133,7 @@
     font-size: 27px;
     margin: 8px 0;
     letter-spacing: 1px;
-    color: $primaryColor;
+    color: white;
     font-weight: 500;
     text-align: flex-start;
 }
@@ -142,7 +142,7 @@
     font-size: 27px;
     margin: 8px 0;
     letter-spacing: 1px;
-    color: $primaryColor;
+    color: white;
     font-weight: 500;
     text-align: flex-start;
 }
@@ -250,6 +250,7 @@ $avatar-size: 50px;
 .btn-trailer{
     display: flex;
     justify-content: center;
+    background-color: #FFD124;
     width: 40%;
     margin-top: 20px;
     &:hover{

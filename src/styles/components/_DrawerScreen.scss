@@ -8,6 +8,11 @@
 
 //Component Button
 
+body {
+    background: rgb(0,103,120);
+    background: linear-gradient(90deg, rgba(0,103,120,1) 0%, rgba(0,147,171,1) 35%, rgba(0,175,193,1) 100%);
+}
+
 .btn{
     padding: 8px 20px;
     border-radius: 4px;
