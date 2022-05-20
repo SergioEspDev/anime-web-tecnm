@@ -1,22 +1,22 @@
 export const arrayOfGenre=[
     {
-        name:"Acción",
+        name:"Action",
         number:1,
     },
     {
-        name:"Aventura",
+        name:"Adventure",
         number:2,
     },
     {
-        name:"Carreras",
+        name:"Cars",
         number:3,
     },
     {
-        name:"Comedia",
+        name:"Comedy",
         number:4,
     },
     {
-        name:"Misterio",
+        name:"Mistery",
         number:7,
     },
     {
@@ -28,7 +28,7 @@ export const arrayOfGenre=[
         number:9,
     },
     {
-        name:"Fantasia",
+        name:"Fantasy",
         number:10,
     },
     {
@@ -36,7 +36,7 @@ export const arrayOfGenre=[
         number:11,
     },
     {
-        name:"Historico",
+        name:"Historical",
         number:13,
     },
     {
@@ -48,7 +48,7 @@ export const arrayOfGenre=[
         number:15,
     },
     {
-        name:"Artes Marciales",
+        name:"Martial Arts",
         number:17,
     },
 
@@ -57,11 +57,11 @@ export const arrayOfGenre=[
         number:18,
     },
     {
-        name:"Musica",
+        name:"Music",
         number:19,
     },
     {
-        name:"Parodias",
+        name:"Parody",
         number:20,
     },
 
@@ -74,65 +74,37 @@ export const arrayOfGenre=[
         number:22,
     },
     {
-        name:"Escolares",
+        name:"School",
         number:23,
     },
     {
-        name:"Ciencia ficción",
+        name:"Sci Fi",
         number:24,
     },
     {
         name:"Shoujo",
         number:25,
     },
-    // {
-    //     name:"Girls Love",
-    //     number:26,
-    // },
     {
         name:"Shounen",
         number:27,
     },
-    // {
-    //     name:"Boys Love",
-    //     number:28,
-    // },
-    // {
-    //     name:"Space",
-    //     number:29,
-    // },
     {
-        name:"Deportes",
+        name:"Sports",
         number:30,
     },
-    // {
-    //     name:"Super Power",
-    //     number:31,
-    // },
-    // {
-    //     name:"Vampire",
-    //     number:32,
-    // },
     {
         name:"Harem",
         number:35,
     },
     {
-        name:"Recuentos de la vida",
+        name:"Slice of life",
         number:36,
     },
     {
         name:"Supernatural",
         number:37,
     },
-    // {
-    //     name:"Military",
-    //     number:28,
-    // },
-    // {
-    //     name:"Police",
-    //     number:39,
-    // },
     {
         name:"Psychological",
         number:40,
@@ -145,25 +117,4 @@ export const arrayOfGenre=[
         name:"Seinen",
         number:42,
     },
-    // {
-    //     name:"Josei",
-    //     number:43,
-    // },
-    // {
-    //     name:"Award Winning",
-    //     number:46,
-    // },
-    // {
-    //     name:"Gourmet",
-    //     number:47,
-    // },
-    // {
-    //     name:"Work Life",
-    //     number:48,
-    // },
-    // {
-    //     name:"Erotica",
-    //     number:49,
-    // },
-
 ]
